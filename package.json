@@ -1,0 +1,25 @@
+{
+  "name": "role-assistant",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ladomitory/Role-Assistant-for-Discord.git"
+  },
+  "keywords": [
+    "1234"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ladomitory/Role-Assistant-for-Discord/issues"
+  },
+  "homepage": "https://github.com/Ladomitory/Role-Assistant-for-Discord#readme",
+  "dependencies": {
+    "discord.js": "^12.5.1"
+  }
+}
